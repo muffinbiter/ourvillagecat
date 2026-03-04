@@ -1,6 +1,9 @@
 # Our Neighborhood Cat
 A cozy pixel-art narrative village game
 
+🎮 Play Demo  
+https://muffinbiter.github.io/ourvillagecat/
+
 ---
 
 ## Overview
